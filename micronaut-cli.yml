@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, aws-lambda, aws-lambda-custom-runtime, aws-lambda-events-serde, aws-lambda-handler-function, graalvm, gradle, http-client, http-client-test, junit, kotlin, ksp, logback, micronaut-build, properties, readme, serialization-jackson, shade, x86]
